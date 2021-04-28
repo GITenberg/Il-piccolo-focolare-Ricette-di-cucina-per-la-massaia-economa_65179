@@ -1,11 +1,16 @@
 _repo: Il-piccolo-focolare-Ricette-di-cucina-per-la-massaia-economa_65179
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65179-h/images/cover.jpg
 creator:
   author:
     agent_name: Lazzari, Giulia Turco Turcati
     gutenberg_agent_id: '53222'
     url: http://www.gutenberg.org/2009/agents/53222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65179#Il-piccolo-focolare-Ricette-di-cucina-per-la-massaia-economa
 gutenberg_issued: '2021-04-27'
 gutenberg_type: Text
 identifiers:
